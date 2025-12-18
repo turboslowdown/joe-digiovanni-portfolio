@@ -4,7 +4,10 @@
 
 This portfolio showcases my work in baseball analytics and data science, with a focus on predictive modeling, statistical analysis, and applied research for Major League Baseball organizations. My projects demonstrate expertise in machine learning, statistical modeling, data visualization, and the ability to translate complex analytical insights into actionable recommendations for player evaluation and game strategy.
 
-Please also check out my LinkedIn: [linkedin.com/in/josephndigiovanni](https://linkedin.com/in/josephndigiovanni)
+Contact:
+[linkedin.com/in/josephndigiovanni](https://linkedin.com/in/josephndigiovanni)
+jdigiovanni@uchicago.edu
+joseph.n.digiovanni@gmail.com
 
 ## Portfolio Structure
 
