@@ -21,8 +21,6 @@ joseph.n.digiovanni@gmail.com
 
 ### Analytical & Applied Projects
 
-Projects developed for MLB team applications and research questionnaires:
-
 - **Catcher Framing Prediction** - A production-ready machine learning model using HistGradientBoostingClassifier to predict the probability that a pitch will be called a strike, enabling evaluation of catcher framing ability. The model incorporates pitch location (normalized to strike zone boundaries), pitch movement (horizontal and vertical break), velocity, pitch type, and batter/pitcher handedness. The production pipeline processes new pitch data, generates pitch-level predictions, and aggregates results to catcher-level metrics including "strikes added" per 100 opportunities. The model uses group-based cross-validation (splitting by game ID) to prevent data leakage and ensure robust performance on unseen games.
 
 - **Predicting Pitch Velocity Differential** - A comprehensive machine learning project predicting the velocity difference between a pitcher's primary fastball (average of four-seam, two-seam, and sinker) and their breaking balls. The analysis includes extensive data cleaning (filtering position players, handling missing values), feature engineering (creating differential features for break, release point, spin rate, and spin axis relative to fastball baseline), and model comparison between Random Forest and XGBoost. The final model achieves R² of 0.94 with MAE of 0.85 MPH, identifying vertical break differential as the dominant predictive factor. The project demonstrates advanced understanding of pitch physics and the relationship between pitch characteristics and velocity separation, with applications for pitch development and deception optimization.
