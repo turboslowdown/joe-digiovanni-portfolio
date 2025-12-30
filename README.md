@@ -47,7 +47,7 @@ joseph.n.digiovanni@gmail.com
 
 ## Writing
 
-- **(What Happened to Bobby Miller?)[https://medium.com/@joseph.n.digiovanni/what-happened-to-bobby-miller-40a7e400629f]** - A short case study of the sharp decline in performance from Dodgers' RHP Bobby Miller in 2024, and what he worked on in 2025.
+- ** (What Happened to Bobby Miller?)[https://medium.com/@joseph.n.digiovanni/what-happened-to-bobby-miller-40a7e400629f] ** - A short case study of the sharp decline in performance from Dodgers' RHP Bobby Miller in 2024, and what he worked on in 2025.
 
 ## Technical Skills
 
